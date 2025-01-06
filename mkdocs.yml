@@ -1,0 +1,16 @@
+site_name: Dr. Prepper Documentation
+site_url: https://AshtonJohns.github.io/DrPrepperDocs
+theme: readthedocs
+
+nav:
+  - Home: index.md
+  - Overview:
+      - Description: description.md
+      - Requirements: requirements.md
+  - Installation:
+      - Installation Instructions: installation.md
+      - Getting it Running: getting_it_running.md
+  - Development:
+      - Active Development: active_development.md
+      - Progress Log: progress_log.md
+      - Updating this Site: updating_site.md
